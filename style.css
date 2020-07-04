@@ -25,7 +25,8 @@ header a{
 
 section#featured-property  p{
   width: 800px;
-  text-align: center
+  text-align: center;
+  margin: auto
 }
 
 section#details{
